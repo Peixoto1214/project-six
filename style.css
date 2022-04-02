@@ -1,0 +1,24 @@
+
+
+.target{
+    display: block;
+    width:150px;
+    height: 150px;
+    background-color:green
+}
+div{
+    height: 150px;
+    width:150px;
+}
+.blue{
+    display: block;
+    width:150px;
+    height: 150px;
+    background-color:skyblue
+}
+.red{
+    display: block;
+    width:150px;
+    height: 150px;
+    background-color:red
+}
