@@ -118,10 +118,10 @@ console.log(helloThere)
     // para.innerHTML('hello there you silly goose');
 
 
-   let div = document.createElement('div');
+   let house = document.createElement('div');
 
    div.innerHTML = '<p> Hello Sucka I can not believe this nonsense </p>';
-    document.body.appendChild(div)
+    document.body.appendChild(house)
 
 
    });
