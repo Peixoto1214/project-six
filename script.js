@@ -112,13 +112,16 @@ console.log(helloThere)
     //         document.querySelector('.blue').style.display = 'block';
     //     }
     // }
+
 })
     
+    // para.innerHTML('hello there you silly goose');
 
 
-   
-    
-        
+   let div = document.createElement('div');
+
+   div.innerHTML = '<p> Hello Sucka I can not believe this nonsense </p>';
+    document.body.appendChild(div)
 
 
    });
